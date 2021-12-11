@@ -3,7 +3,6 @@ Proyecto de "Control de estrés en ganado por índice de temperatura y humedad (
 
 - Desarrollado en Navarro Pcia. Bs As, Argentina  
 - Desarrollo: Estudiante en Ing.Carlos Maximiliano Massone                                    
-- Control ITH para Tambo                  
 
 
 # Programa - Control ITH Wi-Fi
